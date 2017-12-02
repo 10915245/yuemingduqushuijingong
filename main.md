@@ -5,6 +5,7 @@
 
 On one fine summer's day in a field a Grasshopper was hopping about in a musical mood. An ant passed by bearing along with great toil an ear of corn he was taking to the nest.
 
+![image](http://www.kidsgen.com/fables_and_fairytales/images/grasshopper.gif)
 **Bold** and _Italic_ and `Code` text 
 
 
@@ -27,8 +28,7 @@ Content in the first column | Content in the second column
 
 
 
-On one fine summer's day in a field a Grasshopper was hopping about in a musical mood. An ant passed by bearing along with great toil an ear of corn he was taking to the nest.
-image: http://www.kidsgen.com/fables_and_fairytales/images/grasshopper.gif
+
 
 grasshopper in musical mood
 
@@ -42,5 +42,5 @@ Finally, when winter came, the Grasshopper found itself dying of hunger, while i
 
 Then the Grasshopper understood that…
 
-[reference](http://www.kidsgen.com/fables_and_fairytales/fables.htm#5MGJK0zSLYA7JUW8.99)
+[resource website](http://www.kidsgen.com/fables_and_fairytales/fables.htm#5MGJK0zSLYA7JUW8.99)
 

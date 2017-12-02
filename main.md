@@ -6,7 +6,7 @@
 On one fine summer's day in a field a Grasshopper was hopping about in a musical mood. An ant passed by bearing along with great toil an ear of corn he was taking to the nest.
 
 ![image](http://www.kidsgen.com/fables_and_fairytales/images/grasshopper.gif)
-**Bold** and _Italic_ and `Code` text 
+
 
  <span style="color:blue">some *blue* text</span>
 

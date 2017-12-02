@@ -44,11 +44,11 @@ Then the Grasshopper understood that…
 
 
 
-## Fables
-
-[Tortosie and The Hare](http://www.kidsgen.com/fables_and_fairytales/tortoise_and_the_hare.htm)|[The Lion's Share](http://www.kidsgen.com/fables_and_fairytales/the_lions_share.htm)
+## Other Fables
 ---|---
-3|4
+[Tortosie and The Hare](http://www.kidsgen.com/fables_and_fairytales/tortoise_and_the_hare.htm)|[The Lion's Share](http://www.kidsgen.com/fables_and_fairytales/the_lions_share.htm)
+
+[Lion and The Mouse]|4
 5|6
 7|8
 

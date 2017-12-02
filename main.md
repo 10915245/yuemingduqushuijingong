@@ -19,9 +19,13 @@ The grasshopper invited the ant to sit for a chat with him, but the ant refused 
 
    asked the ant to the grasshopper.
 
+>"Pooh! Why bother about winter?" 
 
+said the Grasshopper
 
-ant"Pooh! Why bother about winter?" said the Grasshopper; we have got enough food at present." But the Ant went on its way and continued its toil.
+> we have got enough food at present." 
+
+But the Ant went on its way and continued its toil.
 
 Finally, when winter came, the Grasshopper found itself dying of hunger, while it saw the ants distributing corn and grain from their storage.
 

@@ -1,9 +1,9 @@
 :sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny:
             
 
- # _**The Ant and the Grasshopper**_
+ # _The Ant and the Grasshopper_
 
-
+On one fine summer's day in a field a Grasshopper was hopping about in a musical mood. An ant passed by bearing along with great toil an ear of corn he was taking to the nest.
 
 **Bold** and _Italic_ and `Code` text 
 
@@ -26,11 +26,6 @@ Content in the first column | Content in the second column
 
 
 
-
-
-
-[google link](https://google.com/)
-![image](https://www.imagejournal.org/wp-content/uploads/bb-plugin/cache/23466317216_b99485ba14_o-panorama.jpg)
 
 On one fine summer's day in a field a Grasshopper was hopping about in a musical mood. An ant passed by bearing along with great toil an ear of corn he was taking to the nest.
 image: http://www.kidsgen.com/fables_and_fairytales/images/grasshopper.gif

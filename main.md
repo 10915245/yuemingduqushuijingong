@@ -42,5 +42,5 @@ Finally, when winter came, the Grasshopper found itself dying of hunger, while i
 
 Then the Grasshopper understood that…
 
-[resource](http://www.kidsgen.com/fables_and_fairytales/fables.htm#5MGJK0zSLYA7JUW8.99)
+[reference](http://www.kidsgen.com/fables_and_fairytales/fables.htm#5MGJK0zSLYA7JUW8.99)
 

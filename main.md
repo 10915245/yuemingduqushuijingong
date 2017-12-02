@@ -7,9 +7,7 @@ On one fine summer's day in a field a Grasshopper was hopping about in a musical
 
 ![image](http://www.kidsgen.com/fables_and_fairytales/images/grasshopper.gif)
 **Bold** and _Italic_ and `Code` text 
-
-<span style="color:red">some **This is Red Bold.** text</span>
-
+<span style="color:blue">some *This is Blue italic.* text</span>
 He said 
 >wwwwwwwwwwwwwwwwwwwwwww
 

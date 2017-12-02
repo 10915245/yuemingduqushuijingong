@@ -1,4 +1,4 @@
-:sunny:,:smile:
+:sunny::smile:
 
 # Header 1
 ## Header 2

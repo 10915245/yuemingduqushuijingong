@@ -18,7 +18,7 @@ He said
 
 
 I think you should use an
-`<addr>` element here instead.
+`<https://google.com/>` element here instead.
 
 
 

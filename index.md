@@ -32,9 +32,21 @@ Finally, when winter came, the Grasshopper found itself dying of hunger, while i
 Then the Grasshopper understood that…
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Fables
 
-1|2
+[Tortosie and The Hare](http://www.kidsgen.com/fables_and_fairytales/tortoise_and_the_hare.htm)|[The Lion's Share](http://www.kidsgen.com/fables_and_fairytales/the_lions_share.htm)
 ---|---
 3|4
 5|6

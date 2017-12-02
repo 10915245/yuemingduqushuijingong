@@ -16,8 +16,8 @@
 
 **Bold** and _Italic_ and `Code` text 
 
-[Link](url) and ![Image](src)
+
 
 [google link](https://google.com/)
-![image1](https://www.imagejournal.org/wp-content/uploads/bb-plugin/cache/23466317216_b99485ba14_o-panorama.jpg)
+![image](https://www.imagejournal.org/wp-content/uploads/bb-plugin/cache/23466317216_b99485ba14_o-panorama.jpg)
 

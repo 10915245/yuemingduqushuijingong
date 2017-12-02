@@ -1,4 +1,4 @@
-<div class="row">
+
 
 <a href="/"><div class="col-sm-2 NavCells" >Home</div></a>
 <a href="/fables_and_fairytales"><div class="col-sm-2 NavCells" >Fables &amp; Fairy Tales Main</div></a>

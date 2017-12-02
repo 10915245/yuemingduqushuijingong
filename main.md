@@ -11,16 +11,10 @@ An ant passed by bearing along with great toil an ear of corn he was taking to t
 ![image](http://www.kidsgen.com/fables_and_fairytales/images/ant.gif)
 
 
-He said 
->wwwwwwwwwwwwwwwwwwwwwww
 
-
-
-
-
-
-
-The grasshopper invited the ant to sit for a chat with him. But the ant refused saying that "I’m storing up food for winter". " Why don’t you do the same?" asked the ant to the grasshopper.
+The grasshopper invited the ant to sit for a chat with him. 
+But the ant refused saying that 
+<"I’m storing up food for winter". " Why don’t you do the same?" asked the ant to the grasshopper.
 
 
 

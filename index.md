@@ -2,7 +2,7 @@
 
 
 
-?```???
+
 
 # Header 1
 ## Header 2
@@ -17,7 +17,7 @@
 **Bold** and _Italic_ and `Code` text 
 
 [Link](url) and ![Image](src)
-```
+
 [google link](https://google.com/)
 ![image1](https://www.imagejournal.org/wp-content/uploads/bb-plugin/cache/23466317216_b99485ba14_o-panorama.jpg)
 

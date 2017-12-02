@@ -1,6 +1,6 @@
 ## Welcome to HackDay Site
 
-[a link](www.google.com)
+[a link](www.google.com/)
 
 
 

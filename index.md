@@ -32,9 +32,10 @@ Finally, when winter came, the Grasshopper found itself dying of hunger, while i
 Then the Grasshopper understood that…
 
 
-Fables|123
--------|----------
+**Fables**
+
 1|2
+---|---
 3|4
 5|6
 7|8

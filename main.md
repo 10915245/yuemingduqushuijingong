@@ -11,6 +11,28 @@
 
 **Bold** and _Italic_ and `Code` text 
 
+
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [google link](https://google.com/)
 ![image](https://www.imagejournal.org/wp-content/uploads/bb-plugin/cache/23466317216_b99485ba14_o-panorama.jpg)
 

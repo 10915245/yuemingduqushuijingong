@@ -23,7 +23,7 @@ The grasshopper invited the ant to sit for a chat with him, but the ant refused 
 
 said the Grasshopper
 
-> we have got enough food at present." 
+> "we have got enough food at present." 
 
 But the Ant went on its way and continued its toil.
 

@@ -1,16 +1,8 @@
-
-            
-
 # _The Ant and the Grasshopper_
-
 On one fine summer's day in a field, a Grasshopper was hopping about in a musical mood. 
-
 ![image](http://www.kidsgen.com/fables_and_fairytales/images/grasshopper.gif)
-
 An ant passed by bearing along with great toil an ear of corn he was taking to the nest.
 ![image](http://www.kidsgen.com/fables_and_fairytales/images/ant.gif)
-
-
 
 The grasshopper invited the ant to sit for a chat with him, but the ant refused saying that 
 > "I’m storing up food for winter".
@@ -31,12 +23,9 @@ Finally, when winter came, the Grasshopper found itself dying of hunger, while i
 
 Then the Grasshopper understood that…
 
-
 ## Other Fables
 
 [Tortosie and The Hare](http://www.kidsgen.com/fables_and_fairytales/tortoise_and_the_hare.htm)|[The Lion's Share](http://www.kidsgen.com/fables_and_fairytales/the_lions_share.htm)
 ---|---
-
-
 [resource website](http://www.kidsgen.com/fables_and_fairytales/fables.htm#5MGJK0zSLYA7JUW8.99)
 

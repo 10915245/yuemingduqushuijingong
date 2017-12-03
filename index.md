@@ -1,7 +1,11 @@
 # _The Ant and the Grasshopper_
+
 On one fine summer's day in a field, a Grasshopper was hopping about in a musical mood. 
+
 ![image](http://www.kidsgen.com/fables_and_fairytales/images/grasshopper.gif)
+
 An ant passed by bearing along with great toil an ear of corn he was taking to the nest.
+
 ![image](http://www.kidsgen.com/fables_and_fairytales/images/ant.gif)
 
 The grasshopper invited the ant to sit for a chat with him, but the ant refused saying that 
